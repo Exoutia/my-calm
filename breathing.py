@@ -12,10 +12,14 @@ def breath(inhale: int, exhale: int, hold: int | None = None):
 
 def main():
     running = True
-    pass
+    print("Breathing exercise is starting, press 'ctrl+c' for exiting")
+    while running:
+        breath(4, 4)
+
         
     
     
 
 if __name__ == "__main__":
     print("Take a deep breath")
+    main()
