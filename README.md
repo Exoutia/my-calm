@@ -7,7 +7,6 @@ I have always been a meditation enthusiast and wanted to make an application for
 2. Ambient Music and stories for sleep
 3. Meditation Journal
 
-
 ### 1. Breathing Exercise
 - Breathing exercise has only three parts **Holding**, **Inhaling**, and **Exhaling**. 
 - Timer will need to show for how much each action is done. 
